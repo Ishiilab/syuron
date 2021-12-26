@@ -3,6 +3,7 @@
 本スクリプトの動作にはplatexとdvipdfmxが実行できる環境が必要です（TeXLiveのインストールがしてあればOK https://texwiki.texjp.org/?TeX%20Live）
 main.texがあるのと同じディレクトリにsyuron.batをおいて，
 同じディレクトリで開いたコマンドプロンプトにて「syuron」とコマンドを打ってEnterで実行してください．
+![image](https://user-images.githubusercontent.com/65761137/147402650-a0e16e72-04f0-42ec-8650-d7a2822ce3fb.png)
 
 # スクリプトの内容について
 3回「platex」コマンドを実行して，main.texを中間ファイルmain.dviに変換しています．
@@ -14,4 +15,4 @@ main.texがあるのと同じディレクトリにsyuron.batをおいて，
 エラーメッセージをスキップするように設定してあるので注意してください
 
 2021/12/27 sase
-![image](https://user-images.githubusercontent.com/65761137/147402645-df842d94-bd3a-4aaa-85bb-ed933c3d00b9.png)
+
