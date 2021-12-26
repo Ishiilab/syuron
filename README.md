@@ -14,3 +14,4 @@ main.texがあるのと同じディレクトリにsyuron.batをおいて，
 エラーメッセージをスキップするように設定してあるので注意してください
 
 2021/12/27 sase
+![image](https://user-images.githubusercontent.com/65761137/147402645-df842d94-bd3a-4aaa-85bb-ed933c3d00b9.png)
