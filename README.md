@@ -13,7 +13,8 @@ main.texがあるのと同じディレクトリにsyuron.batをおいて，
 
 # 注意
 platexエラーメッセージをスキップするように設定してあるので注意してください  
-また，エラーがはかれる直前までしかPDF化されません．dvipdfmxのエラー出力を見て該当セクションを直しましょう．
+また，エラーがはかれる直前までしかPDF化されません．dvipdfmxのエラー出力を見て該当セクションを直しましょう.
+PDFの既定のプログラムをAdobeAcrobatReaderDCにしないとうまく動かないみたいです．https://get.adobe.com/jp/reader/
 
 2021/12/27 sase
 
