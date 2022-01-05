@@ -2,7 +2,7 @@
 修論のTeXのPDF化を自動化するbatファイルです．
 本スクリプトの動作にはplatexとdvipdfmxが実行できる環境が必要です（TeXLiveのインストールがしてあればOK https://texwiki.texjp.org/?TeX%20Live）
 main.texがあるのと同じディレクトリにsyuron.batをおいて，
-同じディレクトリで開いたコマンドプロンプトにて「syuron」とコマンドを打ってEnterで実行してください． （アイコンをダブルクリックでも可） 
+同じディレクトリで開いたコマンドプロンプトにて「shuron」とコマンドを打ってEnterで実行してください． （アイコンをダブルクリックでも可） 
 ![image](https://user-images.githubusercontent.com/65761137/147402650-a0e16e72-04f0-42ec-8650-d7a2822ce3fb.png)
 
 # スクリプトの内容について
